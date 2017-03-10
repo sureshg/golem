@@ -1,0 +1,14 @@
+golem
+golem.containers
+golem.matrix
+golem.matrix.common
+golem.matrix.ejml
+golem.matrix.ejml.backend
+golem.matrix.jblas
+golem.matrix.jblas.backend
+golem.matrix.mtj
+golem.matrix.mtj.backend
+golem.util
+golem.util.logging
+golem.util.test
+golem.util.validation
